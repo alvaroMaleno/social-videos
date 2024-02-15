@@ -18,7 +18,7 @@ The repository contains a completely functional application able to manage:
 ## How do I get set up? ##
 
 ### Summary of set up ###
-* Download and run up https://bitbucket.org/alvaromalenoalferez/messagestoreapi/src/main/
+* Download and run up https://github.com/alvaroMaleno/message-store-api
 * Run npm install
 * Run docker-compose up
 * Run npm run start-dev-server
